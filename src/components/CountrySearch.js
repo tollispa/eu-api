@@ -19,6 +19,11 @@ const countriesData = [
 		code: "BG",
 		men: 3.61,
 		women: 3.9,
+	},	{
+		country: "Sweden",
+		code: "SW",
+		men: 4.41,
+		women: 2.9,
 	},
 ];
 
